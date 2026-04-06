@@ -1,7 +1,6 @@
 🍽️ Savory & Sage - Modern Restaurant Website Template
 Welcome to Savory & Sage, a high-end, visually stunning, and fully responsive restaurant website template designed to provide an extraordinary digital dining experience.
 
-🚀 Live Demo Link Here:
 ✨ Key Features
 Fully Responsive: Optimized for Desktop, Tablet, and Mobile devices.
 
@@ -24,7 +23,6 @@ JavaScript: For interactive elements and smooth navigation.
 Clone the repository:
 
 Bash
-git clone https://github.com/UsmanWebpro/Savory-Sage.git
 Open index.html in your favorite browser to view the site locally.
 
 Customize: Edit the images folder and content sections to match your brand.
@@ -38,6 +36,7 @@ Full-stack Web Applications
 
 Responsive Design Fixes
 
-Feel free to contact me via Fiverr or Gumroad!
+Feel free to contact me via Fiverr 
+For more projects custom contact me on fiverr :https://www.fiverr.com/s/kLB2kaW
 
 🌟 Don't forget to star this repository if you like it!
